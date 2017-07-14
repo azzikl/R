@@ -1,3 +1,4 @@
+#yandex is dead (c) 
 options(httr_oob_default=TRUE)
 
 library(rjson)
